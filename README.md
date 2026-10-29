@@ -1,4 +1,4 @@
-WIP README
+Placeholder.
 
 ## LICENSE
 
