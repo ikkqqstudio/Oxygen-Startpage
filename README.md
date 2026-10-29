@@ -4,6 +4,6 @@ Placeholder.
 
 See [LICENSE](https://github.com/ikkqqstudio/Oxygen-Startpage/blob/master/LICENSE)
 
-## ATTRIBUTION
+## ATTRIBUTIONS
 
 See [ATTRIBUTION](https://github.com/ikkqqstudio/Oxygen-Startpage/blob/master/ATTRIBUTION)
