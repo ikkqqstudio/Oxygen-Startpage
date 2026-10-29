@@ -1,0 +1,89 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Actor';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Oxygen-Sans.ttf') format('truetype'),
+       url('../fonts/Oxygen-Sans-Bold.ttf') format('truetype');
+}
+
+.search {
+    display: block;
+    background-image: linear-gradient(#ffffff95, #ffffff45);
+    border: 1px solid #ffffff75;
+    border-radius: 10px;
+    padding: 10px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search * {
+    display:inline;
+    vertical-align: center;
+}
+
+body {
+    background:url("img/wallpaper.png");
+    background-size:cover;
+    color: #000;
+    text-align: center;
+    font-family: Oxygen-Sans;
+}
+.container {
+    display: inline-block;
+    background-image: linear-gradient(#ffffff95, #ffffff45);
+    border: 1px solid #ffffff75;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 0 0 5px #00000050;
+    text-align: left;
+    margin-top: 10px;
+}
+.greetsect {
+    vertical-align: top;
+}
+.greetings {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.image {
+    margin: 5px 10px 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #666;
+}
+a, p {
+    color: #000;
+    text-decoration:none;
+    margin-top:2px;
+    margin-bottom:2px;
+}
+.Section {
+    display:inline-block
+}
+.speed-dial img {
+    width: 300px;
+    height: 170px;
+    border: 1px solid #666;
+    border-radius: 3px;
+}
+.speed-dial {
+    display: inline-block;
+}
+.topbar img {
+    display: inline-block;
+}
+.topbar img {
+    margin-bottom: -5px;
+    padding-right: 10px;
+}
+.topbar {
+    padding-bottom: 4px;
+    text-transform: uppercase;
+}
+b {
+    font-family: Oxygen-Sans-Bold;
+}
