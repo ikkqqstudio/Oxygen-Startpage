@@ -16,10 +16,15 @@ footer {
     background: #222;
     color: #fff;
     width: 100%;
-    position: fixed;
+    padding: 2.5px 0;
+    margin-top: 10px;
     bottom: 0;
+    position: fixed;
 }
 
+.footer.top {
+    padding-bottom: 2.5px;
+}
 footer a {
     color: #fff
 }
@@ -33,6 +38,7 @@ footer a {
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10px;
 }
 
 .search * {
