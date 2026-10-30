@@ -7,6 +7,18 @@
        url('../fonts/Oxygen-Sans-Bold.ttf') format('truetype');
 }
 
+.greetsect {
+    height: auto;
+}
+
+.rowz {
+    margin-bottom: 100%;
+}
+
+.FOSS {
+    margin-top: auto;
+}
+
 .search {
     display: block;
     background-image: linear-gradient(#ffffff95, #ffffff45);
@@ -39,9 +51,6 @@ body {
     box-shadow: 0 0 5px #00000050;
     text-align: left;
     margin-top: 10px;
-}
-.greetsect {
-    vertical-align: top;
 }
 .greetings {
     text-align: center;
