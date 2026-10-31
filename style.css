@@ -39,6 +39,7 @@ footer a {
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
+    min-width: 500px;
 }
 
 .search * {
@@ -63,6 +64,7 @@ body {
     box-shadow: 0 0 5px #00000050;
     text-align: left;
     margin-top: 10px;
+    min-width: 1550px;
 }
 .greetings {
     text-align: center;
