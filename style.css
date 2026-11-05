@@ -50,7 +50,7 @@ body {
     background-size:cover;
     color: #000;
     text-align: center;
-    font-family: Oxygen-Sans;
+    font-family: Oxygen-Sans, sans-serif;
     margin: 0;
 }
 .container {
@@ -106,5 +106,5 @@ a, p {
     text-transform: uppercase;
 }
 b {
-    font-family: Oxygen-Sans-Bold;
+    font-family: Oxygen-Sans-Bold, sans-serif;
 }
