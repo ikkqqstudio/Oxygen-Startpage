@@ -12,12 +12,20 @@
     vertical-align: top;
 }
 
+.clock {
+    font-size: 90px;
+    font-family: Oxygen-Sans-Bold, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
 footer {
     background: #222;
     color: #fff;
     width: 100%;
     padding: 2.5px 0;
     margin-top: 10px;
+    text-shadow: none;
 }
 
 .footer.top {
@@ -52,6 +60,7 @@ body {
     text-align: center;
     font-family: Oxygen-Sans, sans-serif;
     margin: 0;
+    text-shadow: 0 0 10px #fff;
 }
 .container {
     display: inline-block;
@@ -107,4 +116,5 @@ a, p {
 }
 b {
     font-family: Oxygen-Sans-Bold, sans-serif;
+    font-weight: bold;
 }
