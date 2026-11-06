@@ -19,6 +19,11 @@
     text-align: center;
 }
 
+.Links a img {
+    margin-right: 2px;
+    margin-bottom: -2px;
+}
+
 footer {
     background: #222;
     color: #fff;
