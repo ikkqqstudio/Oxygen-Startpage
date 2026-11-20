@@ -1,4 +1,5 @@
-Placeholder.
+A Cool Static Startpage Inspired By KDE Oxygen.
+You Can Clone It And Then Edit Using HTML Composer And Also Edit /img/Speed-Dial/ And /img/ Contents Accordingly, btw.
 
 ## LICENSE
 
